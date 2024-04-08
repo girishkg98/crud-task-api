@@ -8,7 +8,7 @@ const app = express();
 
 //The above script can be written using arrow function which got introduced from ECMAScript 6 (ES6 in 2015)
 app.listen(3000, () => {
-    console.log('server started on port 3000');
+    console.log('server started on port 3000!!');
 });
 
 
